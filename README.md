@@ -1,114 +1,226 @@
+<!-- ========================= HEADER ========================= -->
 <div align="center">
 
-# Hi, I'm [Your Name] 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=230&section=header&text=Hi%2C%20I'm%20Your%20Name&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%C2%B7%201337%20Student&descSize=20&descAlignY=58" width="100%" alt="header" />
 
-### Full Stack Developer · 1337 Student
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=640&lines=Building+scalable+web+applications+%F0%9F%9A%80;Turning+ideas+into+clean+code+%F0%9F%92%A1;Learning+every+day+at+1337+%F0%9F%8E%93;Open+to+internships+%26+collaborations+%F0%9F%A4%9D" alt="Typing SVG" />
+</a>
 
-*Building clean, scalable web applications, one commit at a time.*
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-username)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://your-portfolio.com)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+<img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=8b5cf6&style=for-the-badge" alt="profile views" />
+<img src="https://img.shields.io/badge/1337-Student-000000?style=for-the-badge&logo=42&logoColor=white" alt="1337" />
+<img src="https://img.shields.io/badge/Open%20to-Work-22c55e?style=for-the-badge" alt="open to work" />
+
+<br/><br/>
+
+<a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- ========================= ABOUT ========================= -->
+## ✨ About Me
 
-I'm a **Full Stack Developer** and a student at **1337 (42 Network)**, where I learn through peer-to-peer, project-based education. This approach has strengthened my problem-solving skills, my autonomy, and my ability to collaborate and learn quickly.
+<table>
+<tr>
+<td width="60%" valign="top">
 
-- 🔭 Currently working on: **[your current project]**
-- 🌱 Currently learning: **[e.g. Docker, TypeScript, System Design]**
-- 🤝 Open to: **internships, collaborations and open-source contributions**
-- 💬 Ask me about: **JavaScript, React, Node.js, C, and web development**
-- 📍 Based in: **Morocco 🇲🇦**
+I'm a **Full Stack Developer** and a student at **1337 (42 Network)**, where learning is peer-to-peer and project-based. No teachers, no lectures: just real problems, real deadlines and a community that pushes you to grow.
 
----
+I enjoy building products end to end, from a polished UI to a solid API and database, and I care about clean, readable and maintainable code.
 
+```js
+const me = {
+  role: "Full Stack Developer",
+  school: "1337 / 42 Network 🇲🇦",
+  currentlyBuilding: "[your current project]",
+  currentlyLearning: ["TypeScript", "Docker", "System Design"],
+  funFact: "I debug with console.log and I'm not ashamed 😅",
+  lookingFor: "Internships & exciting collaborations",
+};
+```
+
+</td>
+<td width="40%" valign="top">
+
+### 🎯 Quick Facts
+
+- 🔭 Working on **[your project]**
+- 🌱 Learning **Docker & TypeScript**
+- 🤝 Open to **internships & open source**
+- 💬 Ask me about **React, Node.js & C**
+- 📍 Based in **Morocco 🇲🇦**
+- ⚡ Fast learner, team player
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ========================= TECH STACK ========================= -->
 ## 🛠️ Tech Stack
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+<div align="center">
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+**Frontend**
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,vite&theme=dark" />
 
-### Languages & Systems (1337)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+**Backend**
 
-### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,python,php,laravel&theme=dark" />
 
----
+**Databases**
 
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&theme=dark" />
+
+**Systems & Low-level (1337)**
+
+<img src="https://skillicons.dev/icons?i=c,cpp,bash,linux,vim&theme=dark" />
+
+**Tools & DevOps**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,nginx,postman,figma,vscode&theme=dark" />
+
+</div>
+
+<br/>
+
+<!-- ========================= PROJECTS ========================= -->
 ## 🚀 Featured Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **[Project Name]** | Short description of what it does and the problem it solves | `React` `Node.js` `PostgreSQL` |
-| **[Project Name]** | Short description of what it does and the problem it solves | `Next.js` `TypeScript` `Tailwind` |
-| **[Project Name]** | Short description of what it does and the problem it solves | `C` `Unix` |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-👉 See all my work in my [repositories](https://github.com/your-username?tab=repositories).
+### 📦 [Project One]
+Short description of the project, the problem it solves and what makes it special.
 
----
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 
-## 🎓 1337 Journey
+[🔗 Live Demo](#) · [📂 Source Code](#)
 
-At 1337, I've worked on projects that sharpened my fundamentals:
+</td>
+<td width="50%" valign="top">
 
-- **Libft / Get Next Line / Printf**: core C programming and memory management
-- **Minishell**: building a Unix shell (processes, pipes, signals)
-- **Philosophers**: concurrency, threads and synchronization
-- **Cub3D / miniRT**: graphics programming and ray casting
-- **ft_transcendence / Inception**: full stack and DevOps in practice
+### 🛒 [Project Two]
+Short description of the project, the problem it solves and what makes it special.
 
-*(Edit this list to match the projects you've actually completed.)*
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+[🔗 Live Demo](#) · [📂 Source Code](#)
 
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💬 [Project Three]
+Short description of the project, the problem it solves and what makes it special.
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+[🔗 Live Demo](#) · [📂 Source Code](#)
+
+</td>
+<td width="50%" valign="top">
+
+### 🐚 Minishell
+A Unix shell written in C: parsing, pipes, redirections, signals and environment handling.
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
+![Unix](https://img.shields.io/badge/Unix-000000?style=flat-square&logo=linux&logoColor=white)
+
+[📂 Source Code](#)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![More projects](https://img.shields.io/badge/See_all_my_repositories-8B5CF6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username?tab=repositories)
+
+</div>
+
+<br/>
+
+<!-- ========================= 1337 ========================= -->
+## 🎓 My 1337 Journey
+
+```mermaid
+graph LR
+    A[🏊 Piscine] --> B[📚 Libft]
+    B --> C[🖨️ ft_printf / GNL]
+    C --> D[🐚 Minishell]
+    D --> E[🍝 Philosophers]
+    E --> F[🎮 Cub3D / miniRT]
+    F --> G[🌐 ft_transcendence]
+    style A fill:#8b5cf6,stroke:#fff,color:#fff
+    style G fill:#22c55e,stroke:#fff,color:#fff
+```
+
+> *Edit this path to match the projects you've actually completed.*
+
+<br/>
+
+<!-- ========================= STATS ========================= -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default&hide_border=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&hide_border=true)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&icon_color=8b5cf6&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=8b5cf6&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=your-username&theme=tokyonight&hide_border=true&background=0d1117&ring=8b5cf6&fire=8b5cf6&currStreakLabel=8b5cf6" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=8b5cf6&line=8b5cf6&point=ffffff" width="100%" />
 
 </div>
 
----
+<br/>
 
+<!-- ========================= SNAKE ========================= -->
+<div align="center">
+
+<!-- Needs the snake GitHub Action: https://github.com/Platane/snk -->
+<img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake-dark.svg" alt="snake animation" width="100%" />
+
+</div>
+
+<br/>
+
+<!-- ========================= CONTACT ========================= -->
 ## 📫 Let's Connect
 
-I'm always happy to discuss new opportunities, ideas, or just talk code.
-
-- 💼 LinkedIn: [your-username](https://linkedin.com/in/your-username)
-- 📧 Email: your.email@example.com
-- 🌐 Portfolio: [your-portfolio.com](https://your-portfolio.com)
-
 <div align="center">
+
+I'm always open to new opportunities, ideas and good conversations about code.
+
+<a href="https://linkedin.com/in/your-username"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Say_hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
+<br/><br/>
 
 ⭐ *If you like my work, feel free to star a repo!* ⭐
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
